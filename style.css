@@ -1,0 +1,23 @@
+body{
+  background-color: #29426B;
+  color: #ffffff;
+  font-family: 'INDIE FLOWER',cursive;
+}
+.heading{
+  text-align: center;
+  font-size: 50px;
+  padding-top: 150px;
+  transition: 0.1s; 
+}
+.heading:hover{
+  color: #29426B;
+}
+.para{
+  text-align: center;
+  font-size: 30px;
+}
+.para2{
+  padding-top: 280px;
+  font-size: 7px;
+}
+
